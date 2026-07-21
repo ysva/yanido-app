@@ -1,0 +1,3 @@
+# YaniDo is a private, personal app. Crawlers must stay out.
+User-agent: *
+Disallow: /
